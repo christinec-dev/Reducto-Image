@@ -1,16 +1,18 @@
-# Hacker_Man
+# Reducto Image
 Wouldn't it be easier if social media sites had built-in compression tools for when your profile picture is too large? Luckily, there are many compression tools out there for free, and so I tried making my own to practice my React skills.
 
 Just click the button, or drag an image into the box, and once compressed, check it out in comparison to the original file, download, and viola - you're done! I made this with a cool package called react-image-file-resizer - which was super easy and quick to set up. The logo and all icons on this page was made with FontAwesome. You can test it out on Heroku, the link is above. This application is fully functional. 
 
 Day five of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
 
-
 ## Video Preview
-
+https://user-images.githubusercontent.com/87696858/130833130-5c326fbf-f5ec-41aa-98f5-e024ad6c1780.mp4
 
 ## Main Display
+![screencapture-localhost-3000-2021-08-25-18_50_33](https://user-images.githubusercontent.com/87696858/130832515-bac63c37-4795-4a25-8287-61d5435012d3.png)
 
+## Upon Compression
+![screencapture-localhost-3000-2021-08-25-18_51_04](https://user-images.githubusercontent.com/87696858/130832568-acee803f-1177-425c-9b5b-dcbdea9c0cbe.png)
 
 # Getting Started with Create React App
 
