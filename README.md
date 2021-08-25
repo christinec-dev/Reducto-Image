@@ -1,7 +1,7 @@
 # Reducto Image
-Wouldn't it be easier if social media sites had built-in compression tools for when your profile picture is too large? Luckily, there are many compression tools out there for free, and so I tried making my own to practice my React skills.
+Wouldn't it be easier if social media sites had built-in compression tools for when your profile picture is too large? Luckily, there are many compression tools out there for free, and so I tried making my own to practice my React skills. 
 
-Just click the button, or drag an image into the box, and once compressed, check it out in comparison to the original file, download, and viola - you're done! I made this with a cool package called react-image-file-resizer - which was super easy and quick to set up. The logo and all icons on this page was made with FontAwesome. You can test it out on Heroku, the link is above. This application is fully functional. 
+**_Reducto! ⚡_** Just click the button, or drag an image into the box, and once compressed, check it out in comparison to the original file, download, and viola - you're done! I made this with a cool package called react-image-file-resizer - which was super easy and quick to set up. The logo and all icons on this page was made with FontAwesome. You can test it out on Heroku, the link is above. This application is fully functional. 
 
 Day five of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
 
