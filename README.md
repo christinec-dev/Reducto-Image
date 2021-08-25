@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/87696858/130833130-5c326fbf-f5ec-41aa-
 ![screencapture-localhost-3000-2021-08-25-18_50_33](https://user-images.githubusercontent.com/87696858/130832515-bac63c37-4795-4a25-8287-61d5435012d3.png)
 
 ## Upon Compression
-![screencapture-localhost-3000-2021-08-25-18_51_04](https://user-images.githubusercontent.com/87696858/130832568-acee803f-1177-425c-9b5b-dcbdea9c0cbe.png)
+![screencapture-localhost-3000-2021-08-25-19_01_49](https://user-images.githubusercontent.com/87696858/130834045-009f2d0b-de9c-4294-adbe-02a388cadfa5.png)
 
 # Getting Started with Create React App
 
