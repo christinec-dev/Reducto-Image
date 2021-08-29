@@ -73,7 +73,7 @@ class Compressor extends React.Component {
         return (
           <div className="Compressor container-fluid">
             <div className="row">
-                <h1><i class="fab fa-quinscape"></i>Reducto Image</h1>
+                <h1><i className="fab fa-quinscape"></i>Reducto Image</h1>
                 <p className="intro-text"> 
                 Reduce the size of your images online
                 <div className="bracket"></div>
@@ -85,7 +85,7 @@ class Compressor extends React.Component {
                 <div className="icon"></div>    
                 <span className="input-group-btn">
                     <span className="btn btn-secondary btn-file">
-                        <span className="upload-label"><i class="fas fa-file-upload"></i> Choose File</span>
+                        <span className="upload-label"><i className="fas fa-file-upload"></i> Choose File</span>
                         <input type="file" onChange={this.twoCalls} className="filetype"/>
                     </span>    
                     <p className="upload-description">or drop your image here!</p>    
@@ -108,7 +108,7 @@ class Compressor extends React.Component {
             <div className="row">
                 {/*Download button*/}
                 <button className="download-btn">
-                    <a href={this.state.newImage} download="download" className="btn btn-primary"><i class="fas fa-download"></i>Download Image</a>
+                    <a href={this.state.newImage} download="download" className="btn btn-primary"><i className="fas fa-download"></i>Download Image</a>
                 </button>
             </div>
 
